@@ -1,0 +1,11 @@
+{
+  "package_type": "Maven2",
+  "package_specific_id": "commons-codec:commons-codec:1.15",
+  "source_repository": {
+    "Git": {
+      "url": "https://github.com/apache/commons-codec",
+      "tag": "rel/commons-codec-1.15"
+    }
+  },
+  "build_spec_url": "https://raw.githubusercontent.com/tiainen/pyrsia_mappings/main/Maven2/commons-codec/commons-codec/1.15/commons-codec-1.15.buildspec"
+}
