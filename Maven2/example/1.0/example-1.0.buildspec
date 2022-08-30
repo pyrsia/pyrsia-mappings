@@ -1,0 +1,6 @@
+groupId=example
+artifactId=example
+version=1.0
+
+repoType=git
+repoUrl=https://github.com/karolh2000/pyrsia-projects-for-testing
