@@ -7,5 +7,5 @@
       "tag": "rel/commons-codec-1.15"
     }
   },
-  "build_spec_url": "https://raw.githubusercontent.com/tiainen/pyrsia_mappings/main/Maven2/commons-codec/commons-codec/1.15/commons-codec-1.15.buildspec"
+  "build_spec_url": "https://raw.githubusercontent.com/pyrsia/pyrsia-mappings/main/Maven2/commons-codec/commons-codec/1.15/commons-codec-1.15.buildspec"
 }
