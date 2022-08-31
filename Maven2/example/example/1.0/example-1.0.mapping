@@ -3,7 +3,7 @@
   "package_specific_id": "example:example:1.0",
   "source_repository": {
     "Git": {
-      "url": https://github.com/karolh2000/pyrsia-projects-for-testing"
+      "url": "https://github.com/karolh2000/pyrsia-projects-for-testing"
     }
   },
   "build_spec_url": "https://raw.githubusercontent.com/pyrsia/pyrsia-mappings/main/Maven2/example/1.0/example-1.0.buildspec"
